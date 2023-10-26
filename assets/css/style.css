@@ -1,0 +1,85 @@
+/* IMPOSTAZIONI GENERALI */
+
+body{
+    background-image: url(../img/sfondo.png);
+    font-family: 'Poppins', sans-serif;
+}
+#main-container{
+    padding: 0.9em;
+
+}
+/* HEADER */
+header {
+    background-image: linear-gradient(135deg,#306e85, #4397ba);
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    padding: 0.9em;
+    margin-bottom: 0.9em;
+}
+header p{
+    padding: 0.9em;
+}
+nav {
+    padding: 0.9em;
+}
+nav li {
+    list-style-type: none;
+    padding: 0.2em;    
+}
+header p{
+    padding: 0.9em;
+    margin-top: 0.9em;
+}
+#logo-epicode{
+    width: 60%;
+}
+/* MAIN */
+main {
+    background-color: white;
+    margin-bottom: 0.9em;
+}
+/* ELEMENTI NEL MAIN - ARTICLE */
+main h1{
+    font-size: x-large;
+    padding: 0.9em;
+    text-align: left;
+}
+main p {
+    text-align: left;
+    padding: 0.9em;
+}
+
+/* TABELLE */
+table {
+    background-color: aquamarine;
+    text-align: center;
+    margin: auto;
+}
+caption{
+    background-color: cadetblue;
+    text-align: center;
+    font-style: italic;
+}
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 0.9em;
+}
+aside {
+    background-color: coral;
+    margin-bottom: 0.9em;
+}
+
+
+
+/* FOOTER */
+footer {
+    padding: 0.9em;
+    background-color:burlywood;
+    text-align: center;
+}
